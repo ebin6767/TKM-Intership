@@ -1,3 +1,14 @@
+<img width="1245" height="591" alt="17822032873963993645347877511871" src="https://github.com/user-attachments/assets/e2a2306f-6639-4f79-a46d-9f4ca447ba0f" />
+
+
+<img width="1249" height="584" alt="17822033079491858647028764319859" src="https://github.com/user-attachments/assets/419e4d11-cfce-4764-a106-95a4145dae85" />
+
+<img width="1252" height="585" alt="17822033263149192180027995160539" src="https://github.com/user-attachments/assets/ad3894f3-2fb6-4acf-84d9-be59474c889c" />
+
+<img width="1242" height="196" alt="1782203348576524027147979233799" src="https://github.com/user-attachments/assets/3764bfb1-e115-40d2-977e-37e6116101ce" />
+
+<img width="863" height="425" alt="17822033625963565200793529191936" src="https://github.com/user-attachments/assets/0d76645c-0714-482f-ae1d-19cb0037fd18" />
+
 ### AXI4 Crossbar with Adaptive Fairness Arbitration and Reliability Enhancements
 ## Project Overview
 This project extends an open-source AXI4/AXI4-Lite Crossbar Interconnect by introducing adaptive arbitration, runtime monitoring, response error tracking, and transaction timeout handling. In addition to the design enhancements, a comprehensive verification framework was developed to validate functionality, protocol compliance, fairness, reliability, and performance under heavy traffic conditions.
@@ -15,6 +26,7 @@ Configurable priority levels
 Memory-map based routing
 Access restriction through routing tables
 USER signal support on all AXI channels
+
 ## Architecture
 ┌─────────────┬───┬──────────────────────────┬───┬─────────────┐
 │             │ S │                          │ S │             │
